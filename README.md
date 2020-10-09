@@ -7,6 +7,7 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
+* [Annotation Entity.](#annotation-entity)
 * [Help.](#help)
 
 
