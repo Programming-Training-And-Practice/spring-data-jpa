@@ -57,5 +57,11 @@ Classes annotated with this annotation must adhere to the following rules:
 
 
 
+## Query Methods.
+* When not to use:
+  * when the name of the methods turns out to be very long and incomprehensible
+
+
+
 ## Help.
 
